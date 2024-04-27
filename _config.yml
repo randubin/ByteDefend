@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "ByteDefend Cyber Lab"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://ByteDefend.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Dr. Ran Dubin"
+description              : &description "ByteDefend Cyber Lab Website"
+url                      : https://bytedefend.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "randubin/ByteDefend.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,13 +22,15 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "ByteDefend"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "At ByteDefend Cyber Lab, under the esteemed leadership of Dr. Ran Dubin, we are at the forefront of pioneering practical cybersecurity research. Our mission is to develop cutting-edge solutions, ensuring the digital world is safer for everyone. We specialize in a broad spectrum of critical areas, including AI security, protecting critical infrastructure, cloud security, Content Disarm and Reconstruction (CDR), the automation of security research with Large Language Models (LLM), next-generation network security, and fostering trustworthy AI.
+
+The lab is part of Ariel Cyber Innovation Center  "
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Ariel University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "rand@ariel.ac.il" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
