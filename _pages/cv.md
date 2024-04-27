@@ -9,56 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Ran Dubin received his B.Sc., M.Sc., and Ph.D. degrees from Ben-Gurion University, Beer Sheva, Israel, all in communication systems engineering. 
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Before joining Ariel University, Ran was CEO and Co-founder of SNDBOX AI malware sandbox that OPSWAT acquired. Today, Ran is also the CTO of BUFFERZONE Security.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+His research interests revolve around zero-trust cyber protection, malware disarms and reconstruction, encrypted network traffic detection, Deep Packet Inspection (DPI), bypassing AI, Natural Language Processing, media distribution, and AI trust enhancements. He is currently a faculty member at the Computer Science Department at Ariel University, Israel. In addition, Ran is a researcher at Ariel Cyber Innovation Center (ACIC).
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Open positions for excellent and motivated M.Sc, Ph.D., and postdocs students:
+------------------------------------------------------------------------------
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Network Security
+Video transport protocol
+Bypassing AI
+Trusting AI models
+ 
+
+Students:
+---------
+
+I prefer full-time students while doing my best to finance them via grants; this depends on availability. Interested students should contact me by email, including a CV and explaining their availability and preferred areas. 
