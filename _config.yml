@@ -12,7 +12,7 @@ title                    : "ByteDefend Cyber Lab"
 title_separator          : "-"
 name                     : &name "Dr. Ran Dubin"
 description              : &description "ByteDefend Cyber Lab Website"
-url                      : https://bytedefend.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://randubin.github.io/ByteDefend/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "randubin/ByteDefend.github.io"
 
