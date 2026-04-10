@@ -2,16 +2,36 @@
 layout: page
 permalink: /publications/
 title: publications
-description: >
-  Publications by <strong>Ran Dubin</strong> spanning AI Model Security, Encrypted Traffic Analysis,
-  API Security, Content Disarm &amp; Reconstruction, and Network Anomaly Detection.
-  <br>Full list on <a href="https://scholar.google.com/citations?user=kHW5Is4AAAAJ" target="_blank">Google Scholar</a>
-  &nbsp;|&nbsp; <a href="https://dblp.org/pid/132/7955" target="_blank">DBLP</a>
-  &nbsp;|&nbsp; <a href="https://www.linkedin.com/company/108583398/" target="_blank">ByteDefend Lab</a>
+description: Publications by Ran Dubin spanning AI Model Security, Encrypted Traffic Analysis, API Security, Content Disarm & Reconstruction, and Network Anomaly Detection.
 years: [2026, 2025, 2024, 2023, 2022, 2020, 2019, 2018, 2017]
 nav: true
 nav_order: 1
 ---
+
+<!-- Profile links row -->
+<div style="display:flex; flex-wrap:wrap; gap:.6rem; margin-bottom:2.5rem; align-items:center;">
+  <a href="https://scholar.google.com/citations?user=kHW5Is4AAAAJ" target="_blank"
+     style="display:inline-flex; align-items:center; gap:.45rem; padding:.45rem 1rem;
+            background:var(--global-bg-color); border:1px solid var(--global-divider-color,#ddd);
+            border-radius:6px; font-size:.8rem; font-weight:600; color:var(--global-text-color);
+            text-decoration:none; box-shadow:0 1px 4px rgba(0,0,0,.07);">
+    <img src="https://scholar.google.com/favicon.ico" width="16" height="16" alt=""> Google Scholar
+  </a>
+  <a href="https://dblp.org/pid/132/7955" target="_blank"
+     style="display:inline-flex; align-items:center; gap:.45rem; padding:.45rem 1rem;
+            background:var(--global-bg-color); border:1px solid var(--global-divider-color,#ddd);
+            border-radius:6px; font-size:.8rem; font-weight:600; color:var(--global-text-color);
+            text-decoration:none; box-shadow:0 1px 4px rgba(0,0,0,.07);">
+    <img src="https://dblp.org/img/dblp.icon.192x192.png" width="16" height="16" alt=""> DBLP
+  </a>
+  <a href="https://www.linkedin.com/company/108583398/" target="_blank"
+     style="display:inline-flex; align-items:center; gap:.45rem; padding:.45rem 1rem;
+            background:#0a66c2; border:1px solid #0a66c2;
+            border-radius:6px; font-size:.8rem; font-weight:600; color:#fff;
+            text-decoration:none; box-shadow:0 1px 4px rgba(0,0,0,.1);">
+    <i class="fab fa-linkedin"></i> ByteDefend Lab
+  </a>
+</div>
 
 <!-- Research Focus Visualization -->
 <div class="research-viz-container" style="margin-bottom:3rem;">
