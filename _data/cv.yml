@@ -4,7 +4,7 @@
     - name: Full Name
       value: Ran Dubin
     - name: Affiliation
-      value: Ariel University, Department of Computer Science
+      value: Ariel University, Department of Computer and Software Engineering, Ariel Cyber
     - name: Email
       value: rand@ariel.ac.il
     - name: Lab
@@ -50,14 +50,14 @@
   type: time_table
   contents:
     - title: Associate Professor
-      institution: Ariel University, Department of Computer Science, Israel
+      institution: Ariel University, Department of Computer and Software Engineering, Ariel Cyber, Israel
       year: 2018 - now
       description:
         - Head of the <strong>ByteDefend Cyber Lab</strong>.
         - Teaching and supervising graduate students in cybersecurity and machine learning.
         - Research in AI model security, encrypted traffic analysis, API security, and CDR.
     - title: Lecturer
-      institution: Ariel University, Department of Computer Science, Israel
+      institution: Ariel University, Department of Computer and Software Engineering, Ariel Cyber, Israel
       year: 2015 - 2018
       description:
         - Network security, computer networks, and data communications courses.

@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an Associate Professor in the Department of Computer Science at [Ariel University](https://www.ariel.ac.il/), Israel, and the founder and head of the **[ByteDefend Cyber Lab](https://www.linkedin.com/company/108583398/)**. My research sits at the intersection of cybersecurity, machine learning, and network intelligence.
+I am an Associate Professor in the Department of Computer and Software Engineering at [Ariel University](https://www.ariel.ac.il/), Israel, and the founder and head of the **[ByteDefend Cyber Lab](https://www.linkedin.com/company/108583398/)**. My research sits at the intersection of cybersecurity, machine learning, and network intelligence.
 
 **Research Interests:**
 - 🔐 **AI Model Security** — detecting and disarming hidden malware, steganographic attacks, and adversarial payloads inside neural network models
