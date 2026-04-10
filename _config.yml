@@ -10,8 +10,8 @@ email: rand@ariel.ac.il
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Ran Dubin — ByteDefend Cyber Lab | AI Security, Encrypted Traffic Analysis, API Security | Ariel University
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  &nbsp;|&nbsp; <a href="https://www.linkedin.com/company/108583398/" target="_blank">ByteDefend Lab on LinkedIn</a>
+  <a href="https://www.linkedin.com/company/108583398/" target="_blank">ByteDefend Cyber Lab</a>
+  &nbsp;&bull;&nbsp; Ariel University, Department of Computer Science
 keywords: Ran Dubin, ByteDefend, AI security, encrypted traffic analysis, API security, network security, cybersecurity, Ariel University
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)

@@ -2,6 +2,18 @@
 # Update url fields with real post URLs from:
 # https://www.linkedin.com/company/108583398/admin/page-posts/published/
 
+- title: "ByteDefend Exposes Hugging Face Model Security Gap"
+  date: "Mar 2026"
+  excerpt: >
+    🚨 Nearly 50% of popular Hugging Face models still use the Pickle format, which allows
+    arbitrary code execution. Worse — current industry scanners miss up to 93% of these threats.
+    Our new SafePickle scanner achieves 90% F1-score (vs. 7–63% for SOTA tools), detects 9/9
+    evasive adversarial attacks that others catch 0/9, and requires no library-specific setup.
+    We're also releasing a labelled dataset of 727 files to help the community build better defences.
+  url: "https://www.linkedin.com/feed/update/urn:li:activity:7432139399083130880"
+  tags: ["AI Security", "Hugging Face", "ML Models", "Supply Chain"]
+  icon: "🚨"
+
 - title: "SafePickle: Defending Against Malicious ML Model Supply-Chain Attacks"
   date: "Feb 2026"
   excerpt: >

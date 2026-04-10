@@ -2,96 +2,129 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Ran Dubin
+    - name: Affiliation
+      value: Ariel University, Department of Computer Science
+    - name: Email
+      value: rand@ariel.ac.il
+    - name: Lab
+      value: ByteDefend Cyber Lab
+    - name: Google Scholar
+      value: <a href="https://scholar.google.com/citations?user=kHW5Is4AAAAJ" target="_blank">scholar.google.com</a>
+    - name: LinkedIn
+      value: <a href="https://www.linkedin.com/company/108583398/" target="_blank">ByteDefend Cyber Lab</a>
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD, Computer Science
+      institution: Ben-Gurion University of the Negev, Israel
+      year: 2017
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Dissertation on encrypted HTTP adaptive video streaming classification.
+        - Research in network traffic analysis and machine learning for cybersecurity.
+    - title: MSc, Computer Science
+      institution: Ben-Gurion University of the Negev, Israel
+      year: 2013
+    - title: BSc, Computer Science
+      institution: Ben-Gurion University of the Negev, Israel
+      year: 2010
 
-- title: Experience
+- title: Industry Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Chief Information Officer (CIO)
+      institution: <a href="https://www.geoedge.com/" target="_blank">GeoEdge</a>
+      year: present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Leading information security strategy and cyber defence initiatives.
+        - Overseeing secure-by-design architecture across the organisation's ad-security platform.
+    - title: Chief Technology Officer (CTO)
+      institution: BUFFERZONE Security
+      year: 2020 - 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Led R&D of content isolation and Content Disarm & Reconstruction (CDR) technology.
+        - Directed product architecture for zero-trust endpoint security solutions.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Academic Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Associate Professor
+      institution: Ariel University, Department of Computer Science, Israel
+      year: 2018 - now
+      description:
+        - Head of the <strong>ByteDefend Cyber Lab</strong>.
+        - Teaching and supervising graduate students in cybersecurity and machine learning.
+        - Research in AI model security, encrypted traffic analysis, API security, and CDR.
+    - title: Lecturer
+      institution: Ariel University, Department of Computer Science, Israel
+      year: 2015 - 2018
+      description:
+        - Network security, computer networks, and data communications courses.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
+- title: Research Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+    - title: AI & ML Security
       items:
-        - Description 1.
-        - Description 2.
+        - Detection of malware hidden in neural network model weights
+        - Moving Target Defense for deployed AI models (AI-MTD)
+        - Content Disarm & Reconstruction for AI model files (SafePickle, NeuPerm)
+    - title: Encrypted Network Traffic Analysis
+      items:
+        - Traffic classification without decryption (TLS, HTTPS, QUIC)
+        - Post-quantum encryption traffic identification (PQClass)
+        - Malware C2 traffic detection in encrypted channels
+    - title: API Security
+      items:
+        - Few-shot and retrieval-based API injection detection
+        - Anomaly detection with limited labelled data
+    - title: Content Disarm & Reconstruction (CDR)
+      items:
+        - Zero-trust file sanitisation for PDF, RTF, and image formats
+        - CDR methodology for AI model file formats
 
-- title: Other Interests
+- title: Selected Honours & Awards
+  type: time_table
+  contents:
+    - year: 2025
+      items:
+        - Best Paper Nomination, IEEE ICC 2025
+    - year: 2023
+      items:
+        - IEEE Access Outstanding Reviewer Award
+    - year: 2017
+      items:
+        - Outstanding PhD Dissertation, Ben-Gurion University
+
+- title: Selected Publications
+  type: time_table
+  contents:
+    - title: SafePickle — ML Detection of Malicious Pickle-based ML Models
+      year: 2026
+      description: arXiv 2602.19818
+    - title: AI-MTD — Zero-Trust AI Model Security via Moving Target Defense
+      year: 2025
+      description: FedCSIS 2025
+    - title: PQClass — Post-Quantum Encryption Traffic Classification
+      year: 2025
+      description: IEEE ICC 2025
+    - title: API Injection Detection via Few-Shot Retrieval
+      year: 2025
+      description: Computers & Security, vol. 150
+    - title: Content Disarm and Reconstruction of RTF Files
+      year: 2023
+      description: IEEE Transactions on Information Forensics and Security, vol. 18
+    - title: Disarming Attacks Inside Neural Network Models
+      year: 2023
+      description: IEEE Access, vol. 11
+    - title: "I Know What You Saw Last Minute — Encrypted HTTP Adaptive Video Streaming Title Classification"
+      year: 2017
+      description: IEEE Transactions on Information Forensics and Security, vol. 12
+
+- title: Professional Service
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Programme Committee:</u> IEEE ICC, IEEE CCNC, FedCSIS
+    - <u>Reviewer:</u> IEEE TIFS, IEEE Access, Computers & Security, ACM CCS
+    - <u>Invited Talks:</u> Industry and academic seminars on AI model security and encrypted traffic analysis
