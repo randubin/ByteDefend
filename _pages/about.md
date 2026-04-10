@@ -9,7 +9,7 @@ subtitle: >
 
 profile:
   align: right
-  image: cris_profile.jpg
+  image: randubin.jpg
   image_circular: true # crops the image to make it circular
 
 news: true  # includes a list of news items
