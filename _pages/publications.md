@@ -15,7 +15,7 @@ nav_order: 1
 
 <!-- Research Focus Visualization -->
 <div class="research-viz-container" style="margin-bottom:3rem;">
-  <h2 style="font-size:1.3rem; font-weight:600; margin-bottom:1.2rem; letter-spacing:.04em;">
+  <h2 style="font-size:1.3rem; font-weight:600; margin-bottom:1.2rem; letter-spacing:.04em; color:var(--global-text-color);">
     Research Focus Areas
   </h2>
 
