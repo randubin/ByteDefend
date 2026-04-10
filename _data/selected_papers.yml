@@ -1,0 +1,62 @@
+- year: 2026
+  venue: arXiv
+  title: "SafePickle: Detecting Hidden Malware in Hugging Face AI Models"
+  authors: "Ran Dubin"
+  journal: "arXiv preprint"
+  url: "https://arxiv.org/abs/2503.02042"
+
+- year: 2025
+  venue: C&S
+  title: "A Classification-by-Retrieval Framework for Few-Shot Anomaly Detection to Detect API Injection"
+  authors: "Udi Aharon, Ran Dubin, Amit Dvir, Chen Hajaj"
+  journal: "Computers & Security"
+  url: "https://doi.org/10.1016/j.cose.2024.104249"
+
+- year: 2025
+  venue: ICC
+  title: "PQClass: Classification of Post-Quantum Encryption Applications in Internet Traffic"
+  authors: "Angelos K. Marnerides, Chen Hajaj, Revital Marbel, Ran Dubin, Amit Dvir"
+  journal: "IEEE International Conference on Communications (ICC)"
+  url: "https://doi.org/10.1109/ICC52391.2025.11160818"
+
+- year: 2025
+  venue: FedCSIS
+  title: "AI-MTD: Zero-Trust AI Model Security Based on Moving Target Defense"
+  authors: "Daniel Gilkarov, Ran Dubin"
+  journal: "FedCSIS 2025"
+  url: "https://doi.org/10.15439/2025F9981"
+
+- year: 2023
+  venue: IEEE TIFS
+  title: "Content Disarm and Reconstruction of RTF Files: A Zero File Trust Methodology"
+  authors: "Ran Dubin"
+  journal: "IEEE Transactions on Information Forensics and Security"
+  url: "https://doi.org/10.1109/TIFS.2023.3241480"
+
+- year: 2023
+  venue: IEEE Access
+  title: "Disarming Attacks Inside Neural Network Models"
+  authors: "Ran Dubin"
+  journal: "IEEE Access"
+  url: "https://doi.org/10.1109/ACCESS.2023.3330141"
+
+- year: 2023
+  venue: IEEE Access
+  title: "Content Disarm and Reconstruction of PDF Files"
+  authors: "Ran Dubin"
+  journal: "IEEE Access"
+  url: "https://doi.org/10.1109/ACCESS.2023.3267717"
+
+- year: 2020
+  venue: C&S
+  title: "Encrypted Video Traffic Clustering Demystified"
+  authors: "Amit Dvir, Angelos K. Marnerides, Ran Dubin, Nehor Golan, Chen Hajaj"
+  journal: "Computers & Security"
+  url: "https://doi.org/10.1016/j.cose.2020.101917"
+
+- year: 2017
+  venue: IEEE TIFS
+  title: "I Know What You Saw Last Minute — Encrypted HTTP Adaptive Video Streaming Title Classification"
+  authors: "Ran Dubin, Amit Dvir, Ofir Pele, Ofer Hadar"
+  journal: "IEEE Transactions on Information Forensics and Security"
+  url: "https://doi.org/10.1109/TIFS.2017.2730819"
