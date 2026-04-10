@@ -20,41 +20,41 @@ nav_order: 1
   </h2>
 
   <!-- Topic Cards -->
-  <div class="research-topics-grid" style="display:grid; grid-template-columns:repeat(auto-fit,minmax(170px,1fr)); gap:1rem; margin-bottom:2rem;">
+  <div class="research-topics-grid" style="display:grid; grid-template-columns:repeat(auto-fit,minmax(180px,1fr)); gap:1rem; margin-bottom:2rem;">
 
-    <div class="topic-card" style="background:linear-gradient(135deg,#0f2027,#203a43,#2c5364); color:#fff; border-radius:12px; padding:1.1rem; text-align:center; box-shadow:0 4px 15px rgba(0,0,0,.25);">
-      <div style="font-size:1.8rem; margin-bottom:.4rem;">🤖</div>
-      <div style="font-weight:700; font-size:.85rem; letter-spacing:.03em;">AI Model Security</div>
-      <div style="font-size:.75rem; opacity:.8; margin-top:.3rem;">SafePickle · NeuPerm · MTD · CDR</div>
-      <div style="margin-top:.6rem; font-size:.72rem; background:rgba(255,255,255,.15); border-radius:20px; padding:.2rem .6rem; display:inline-block;">8 papers</div>
+    <div class="topic-card" style="background:var(--global-bg-color); border:1px solid rgba(14,165,233,.35); border-left:5px solid #0ea5e9; border-radius:10px; padding:1.2rem 1rem; text-align:center; box-shadow:0 2px 10px rgba(0,0,0,.08);">
+      <div style="font-size:2rem; margin-bottom:.5rem;">🤖</div>
+      <div style="font-weight:800; font-size:.9rem; color:var(--global-text-color); margin-bottom:.35rem;">AI Model Security</div>
+      <div style="font-size:.75rem; color:var(--global-text-color-light); line-height:1.5;">SafePickle · NeuPerm · MTD · CDR</div>
+      <div style="margin-top:.7rem; font-size:.72rem; font-weight:700; background:#0ea5e9; color:#fff; border-radius:20px; padding:.25rem .7rem; display:inline-block;">8 papers</div>
     </div>
 
-    <div class="topic-card" style="background:linear-gradient(135deg,#1a1a2e,#16213e,#0f3460); color:#fff; border-radius:12px; padding:1.1rem; text-align:center; box-shadow:0 4px 15px rgba(0,0,0,.25);">
-      <div style="font-size:1.8rem; margin-bottom:.4rem;">🔒</div>
-      <div style="font-weight:700; font-size:.85rem; letter-spacing:.03em;">Encrypted Traffic</div>
-      <div style="font-size:.75rem; opacity:.8; margin-top:.3rem;">TLS · HTTPS · QUIC · Post-Quantum</div>
-      <div style="margin-top:.6rem; font-size:.72rem; background:rgba(255,255,255,.15); border-radius:20px; padding:.2rem .6rem; display:inline-block;">11 papers</div>
+    <div class="topic-card" style="background:var(--global-bg-color); border:1px solid rgba(99,102,241,.35); border-left:5px solid #6366f1; border-radius:10px; padding:1.2rem 1rem; text-align:center; box-shadow:0 2px 10px rgba(0,0,0,.08);">
+      <div style="font-size:2rem; margin-bottom:.5rem;">🔒</div>
+      <div style="font-weight:800; font-size:.9rem; color:var(--global-text-color); margin-bottom:.35rem;">Encrypted Traffic</div>
+      <div style="font-size:.75rem; color:var(--global-text-color-light); line-height:1.5;">TLS · HTTPS · QUIC · Post-Quantum</div>
+      <div style="margin-top:.7rem; font-size:.72rem; font-weight:700; background:#6366f1; color:#fff; border-radius:20px; padding:.25rem .7rem; display:inline-block;">11 papers</div>
     </div>
 
-    <div class="topic-card" style="background:linear-gradient(135deg,#0d0d0d,#1a1a2e,#2d1b69); color:#fff; border-radius:12px; padding:1.1rem; text-align:center; box-shadow:0 4px 15px rgba(0,0,0,.25);">
-      <div style="font-size:1.8rem; margin-bottom:.4rem;">🔑</div>
-      <div style="font-weight:700; font-size:.85rem; letter-spacing:.03em;">API Security</div>
-      <div style="font-size:.75rem; opacity:.8; margin-top:.3rem;">Few-Shot Detection · Injection</div>
-      <div style="margin-top:.6rem; font-size:.72rem; background:rgba(255,255,255,.15); border-radius:20px; padding:.2rem .6rem; display:inline-block;">2 papers</div>
+    <div class="topic-card" style="background:var(--global-bg-color); border:1px solid rgba(16,185,129,.35); border-left:5px solid #10b981; border-radius:10px; padding:1.2rem 1rem; text-align:center; box-shadow:0 2px 10px rgba(0,0,0,.08);">
+      <div style="font-size:2rem; margin-bottom:.5rem;">🔑</div>
+      <div style="font-weight:800; font-size:.9rem; color:var(--global-text-color); margin-bottom:.35rem;">API Security</div>
+      <div style="font-size:.75rem; color:var(--global-text-color-light); line-height:1.5;">Few-Shot Detection · Injection</div>
+      <div style="margin-top:.7rem; font-size:.72rem; font-weight:700; background:#10b981; color:#fff; border-radius:20px; padding:.25rem .7rem; display:inline-block;">2 papers</div>
     </div>
 
-    <div class="topic-card" style="background:linear-gradient(135deg,#0f2027,#1c4a3f,#2d6a4f); color:#fff; border-radius:12px; padding:1.1rem; text-align:center; box-shadow:0 4px 15px rgba(0,0,0,.25);">
-      <div style="font-size:1.8rem; margin-bottom:.4rem;">🛡️</div>
-      <div style="font-weight:700; font-size:.85rem; letter-spacing:.03em;">CDR</div>
-      <div style="font-size:.75rem; opacity:.8; margin-top:.3rem;">PDF · RTF · Image · AI Models</div>
-      <div style="margin-top:.6rem; font-size:.72rem; background:rgba(255,255,255,.15); border-radius:20px; padding:.2rem .6rem; display:inline-block;">5 papers</div>
+    <div class="topic-card" style="background:var(--global-bg-color); border:1px solid rgba(245,158,11,.35); border-left:5px solid #f59e0b; border-radius:10px; padding:1.2rem 1rem; text-align:center; box-shadow:0 2px 10px rgba(0,0,0,.08);">
+      <div style="font-size:2rem; margin-bottom:.5rem;">🛡️</div>
+      <div style="font-weight:800; font-size:.9rem; color:var(--global-text-color); margin-bottom:.35rem;">CDR</div>
+      <div style="font-size:.75rem; color:var(--global-text-color-light); line-height:1.5;">PDF · RTF · Image · AI Models</div>
+      <div style="margin-top:.7rem; font-size:.72rem; font-weight:700; background:#f59e0b; color:#fff; border-radius:20px; padding:.25rem .7rem; display:inline-block;">5 papers</div>
     </div>
 
-    <div class="topic-card" style="background:linear-gradient(135deg,#1a0533,#2d1b69,#4a148c); color:#fff; border-radius:12px; padding:1.1rem; text-align:center; box-shadow:0 4px 15px rgba(0,0,0,.25);">
-      <div style="font-size:1.8rem; margin-bottom:.4rem;">📡</div>
-      <div style="font-weight:700; font-size:.85rem; letter-spacing:.03em;">Network Anomaly</div>
-      <div style="font-size:.75rem; opacity:.8; margin-top:.3rem;">GNN · Cloud · Malware C2</div>
-      <div style="margin-top:.6rem; font-size:.72rem; background:rgba(255,255,255,.15); border-radius:20px; padding:.2rem .6rem; display:inline-block;">4 papers</div>
+    <div class="topic-card" style="background:var(--global-bg-color); border:1px solid rgba(239,68,68,.35); border-left:5px solid #ef4444; border-radius:10px; padding:1.2rem 1rem; text-align:center; box-shadow:0 2px 10px rgba(0,0,0,.08);">
+      <div style="font-size:2rem; margin-bottom:.5rem;">📡</div>
+      <div style="font-weight:800; font-size:.9rem; color:var(--global-text-color); margin-bottom:.35rem;">Network Anomaly</div>
+      <div style="font-size:.75rem; color:var(--global-text-color-light); line-height:1.5;">GNN · Cloud · Malware C2</div>
+      <div style="margin-top:.7rem; font-size:.72rem; font-weight:700; background:#ef4444; color:#fff; border-radius:20px; padding:.25rem .7rem; display:inline-block;">4 papers</div>
     </div>
 
   </div>
