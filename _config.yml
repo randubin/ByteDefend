@@ -8,17 +8,18 @@ first_name: Ran
 last_name: Dubin
 email: rand@ariel.ac.il
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  ByteDefend website  
+  Ran Dubin — ByteDefend Cyber Lab | AI Security, Encrypted Traffic Analysis, API Security | Ariel University
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-keywords: Ran Dubin, website, research  # add your own keywords or leave empty
+  &nbsp;|&nbsp; <a href="https://www.linkedin.com/company/108583398/" target="_blank">ByteDefend Lab on LinkedIn</a>
+keywords: Ran Dubin, ByteDefend, AI security, encrypted traffic analysis, API security, network security, cybersecurity, Ariel University
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: cris_profile.jpg  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://bytedefend.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
@@ -65,13 +66,14 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: crisbodnar
+github_username: ByteDefend
 gitlab_username: # your GitLab user name
-twitter_username: crisbodnar
-mastodon_username: sigmoid.social/@crisbodnar # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: crisbodnar # your LinkedIn user name
+twitter_username: # your Twitter user name
+mastodon_username: # your mastodon instance+username in the format instance.tld/@username
+linkedin_username: # personal LinkedIn (using work_url below for company page)
 telegram_username: # your Telegram user name
-scholar_userid: pSmh9tkAAAAJ
+scholar_userid: kHW5Is4AAAAJ
+work_url: https://www.linkedin.com/company/108583398/ # ByteDefend Lab LinkedIn
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
@@ -111,9 +113,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_nav_title: # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_name: ByteDefend # blog_name will be displayed in your blog page
+blog_nav_title: media # your blog must have a title for it to be displayed in the nav bar
+blog_description: Research highlights, media coverage, and updates from the ByteDefend Cyber Lab
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -247,8 +249,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: [Bodnar]
-  first_name: [Cristian]
+  last_name: [Dubin]
+  first_name: [Ran]
 
   style: apa
   locale: en
@@ -332,7 +334,7 @@ enable_math:                true   # enables math typesetting (uses MathJax)
 enable_tooltips:            false  # enables automatic tooltip links generated
                                    # for each section titles on pages and posts
 enable_darkmode:            true   # enables switching between light/dark modes
-enable_navbar_social:       false  # enables displaying social links in the
+enable_navbar_social:       true   # enables displaying social links in the
                                    # navbar on the about page
 enable_project_categories:  true   # enables categorization of projects into
                                    # multiple categories

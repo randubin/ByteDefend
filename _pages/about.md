@@ -2,25 +2,40 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior Researcher @ Microsoft Research. Previously @ Google Brain, Google X, Twitter Cortex.
-
-
+subtitle: >
+  Head of <a href="https://www.linkedin.com/company/108583398/" target="_blank"><strong>ByteDefend Cyber Lab</strong></a> &bull;
+  Associate Professor, Dept. of Computer Science, <a href="https://www.ariel.ac.il/" target="_blank">Ariel University</a> &bull;
+  <a href="https://scholar.google.com/citations?user=kHW5Is4AAAAJ" target="_blank">Google Scholar</a>
 
 profile:
   align: right
   image: cris_profile.jpg
   image_circular: true # crops the image to make it circular
-  # address: 
-    # <p>555 your office number</p>
-    # <p>123 your address street</p>
-    # <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
-Hi there! I am a Senior Researcher at Microsoft Research in the [AI4Science team](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/) where I am working at intersection of deep learning and partial differential equations (PDEs). On the ML side, my research spans a range of topics such as geometric & topological deep learning, graph neural networks and neural differential equations.
+I am an Associate Professor in the Department of Computer Science at [Ariel University](https://www.ariel.ac.il/), Israel, and the founder and head of the **[ByteDefend Cyber Lab](https://www.linkedin.com/company/108583398/)**. My research sits at the intersection of cybersecurity, machine learning, and network intelligence.
 
-Previously, I finished my PhD at the University of Cambridge, supervised by
-[Prof Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) and supported by a [Microsoft Research PhD Fellowship](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/#!people) (2021). I've also spent significant time in industry as a research intern at Microsoft Research (2022), [Twitter Cortex](https://cortex.twitter.com/) (2021), Google Brain (2020), and as an AI Resident at [Google X](https://x.company/) (2019). In 2019, I graduated with distinction the MPhil in Advanced Computer Science at Cambridge with a Best MPhil Student Award. 
+**Research Interests:**
+- 🔐 **AI Model Security** — detecting and disarming hidden malware, steganographic attacks, and adversarial payloads inside neural network models
+- 🌐 **Encrypted Network Traffic Analysis** — fingerprinting, classification, and anomaly detection in TLS/HTTPS/QUIC traffic without decryption
+- 🔑 **API Security** — few-shot and retrieval-based detection of API injection and abuse
+- 🛡️ **Content Disarm & Reconstruction (CDR)** — zero-trust file sanitization for PDF, RTF, images, and AI model formats
+- 📡 **Network Anomaly & Intrusion Detection** — GNN-based detection of attacks, malware C2 traffic, and cloud-service anomalies
+
+I am passionate about translating academic research into deployable cybersecurity solutions. My group publishes at top venues including **IEEE TIFS, IEEE Access, Computers & Security, IEEE ICC, and CCNC**.
+
+<div class="research-links mt-3">
+  <a href="https://scholar.google.com/citations?user=kHW5Is4AAAAJ" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">
+    <i class="ai ai-google-scholar"></i> Google Scholar
+  </a>
+  <a href="https://www.linkedin.com/company/108583398/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">
+    <i class="fab fa-linkedin"></i> ByteDefend Lab
+  </a>
+  <a href="https://github.com/ByteDefend" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">
+    <i class="fab fa-github"></i> GitHub
+  </a>
+</div> 
